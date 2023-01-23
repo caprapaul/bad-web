@@ -1,2 +1,2 @@
 # bad-web
-A web app
+A web app.
